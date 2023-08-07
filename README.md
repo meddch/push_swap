@@ -1,7 +1,5 @@
 # push_swap
 
-# PushSwap
-
 PushSwap is a project that involves sorting a stack of integers using only two stacks and a set of predefined operations. The goal of this project is to implement an efficient sorting algorithm that uses a minimal number of operations to sort the stack in ascending order.
 
 ## Project Overview
